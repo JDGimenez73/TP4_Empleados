@@ -1,0 +1,35 @@
+# === Compilación / Build ===
+/build/
+/dist/
+/out/
+/target/
+
+# === NetBeans ===
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# === Eclipse / IntelliJ (por si abrís el proyecto ahí) ===
+/.settings/
+/.classpath
+/.project
+/.idea/
+/*.iml
+
+# === Gradle / Maven ===
+/.gradle/
+/.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# === Archivos del sistema ===
+.DS_Store
+Thumbs.db
+*.log
+
+# === Archivos temporales ===
+*.swp
+*.bak
+*.tmp
+*~
